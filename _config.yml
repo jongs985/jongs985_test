@@ -1,8 +1,8 @@
-name: Photo gallery
+name: Cloud gallery
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
 url: https://jongs985.github.io/
 author:
-    name: Adjetey Sowah
+    name: jongs
     twitter: #
