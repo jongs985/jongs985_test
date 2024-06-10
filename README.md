@@ -1,23 +1,32 @@
-# Mediumish - Jekyll Theme
+Jekyll Photo Grid Gallery
+=========
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+Jekyll theme based on [Blueprint: Google Grid Gallery](http://tympanus.net/codrops/?p=18699)
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+## How to use
+1. Place a large image in `/img/large/`
+2. Place a thumbnail version of the same image in `/img/thumb/`. _Remember to use the same file name_
+3. Construction a post to display the image. Use the follow as an example:
+```txt
+---
+layout: default
+date:   2014-04-06 23:26:12
+photo: 1.png
+caption_header: Sample header
+caption: sample caption
+---
+```
+4. And finally, serve Jekyll source as you would normally.
 
+## [Demo](https://iamnii.github.io/GridGallery)
 
-### Copyright
+View this jekyll theme in action [here](https://iamnii.github.io/GridGallery)
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+## Screenshot
+![screenshot](https://raw.github.com/iamnii/GridGallery/master/jggg.png)
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+Localhost deployment
+=========
+After [downloading](https://github.com/iamnii/GridGallery/archive/master.zip), use the normal process of serving a jekyll site. Navigate to the directory in terminal and type `jekyll build` followed by `jekyll serve`
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
-
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+For more details, read [documentation](http://jekyllrb.com/)
