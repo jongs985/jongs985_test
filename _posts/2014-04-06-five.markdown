@@ -1,7 +1,7 @@
 ---
 layout: default
-date:   2014-04-06 23:26:12
+date:   2024-06-12 9:30:00
 photo: 5.png
-caption_header: 구름 사진 5
-caption: 구름 사진이다.
+caption_header: 맑은 하늘의 구름
+caption: 집에서 찍은 사진이다.
 ---

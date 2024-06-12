@@ -1,7 +1,7 @@
 ---
 layout: default
-date:   2014-04-06 23:26:12
+date:   2024-06-12 9:30:00
 photo: 3.png
-caption_header: Sample header
-caption: sample caption
+caption_header: 구름 사이의 햇빛
+caption: 집에서 찍은 사진이다.
 ---
