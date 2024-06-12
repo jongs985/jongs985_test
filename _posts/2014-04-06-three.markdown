@@ -1,7 +1,7 @@
 ---
 layout: default
-date:   2014-04-06 23:26:12
+date:   2022-06-17 15:43:55
 photo: 3.png
-caption_header: 3
-caption: 3
+caption_header: 구름 사이의 빛
+caption: 구름 사이로 빛이 새어 나온다.
 ---
