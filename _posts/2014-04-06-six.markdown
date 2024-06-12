@@ -2,6 +2,6 @@
 layout: default
 date:   2014-04-06 23:26:12
 photo: 6.png
-caption_header: test
-caption: test
+caption_header: 6
+caption: 6
 ---
